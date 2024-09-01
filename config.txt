@@ -1,0 +1,15 @@
+driver_path=chromedriver.exe
+url_input=https://stadium.tongji.edu.cn
+sleep_time=3
+password_path=credentials.txt
+sports_type=网球
+complexes_name=四平校区南大道网球场
+date_data=2024-09-08
+time_threshold=23:00
+time_choice=10
+selected_seat_index=1
+response_time=0.25
+chrome_path=chrome-win64\\chrome.exe
+selected_seat_index_alt=[1, 2, 4]
+time_choice_limit=20
+zy_mode=True
