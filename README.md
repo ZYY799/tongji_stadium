@@ -1,10 +1,5 @@
-# tongji_stadium
-同济大学体育场地自动化小软件，仅用于学习交流
----
-说明后续补上，两种部署使用方式
-1. 可以源代码运行，不过需要自行配置环境
-2. 采用release发布的压缩包，解压下载点击exe文件直接运行
+# 同济大学体育馆场地预约自动化软件
 
+[![Homepage](https://img.shields.io/badge/-Homepage-yellow)](https://zy66online.com)
 
-
-禁止一切转载及商业用途！
+##🤔 部署方式
