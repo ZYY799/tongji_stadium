@@ -39,7 +39,8 @@
      - 如果在截至时间time_choice_limit内依然未能找到合适的场地，则终止程序；
   5. 选定后快速点击确认并提交；
   6. 到达验证码阶段时，如果未开启zy_model，需手动滑动滑块验证（开启后会自动破解，但不推荐）。
-![Uploading 未命名绘图.drawio.png…]()
+![未命名绘图 drawio](https://github.com/user-attachments/assets/8e9b6e05-f36c-41a2-86f8-a2603185d0fa)
+
 
 
 <br>
