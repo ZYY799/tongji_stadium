@@ -41,7 +41,7 @@
   6. 到达验证码阶段时，如果未开启zy_model，需手动滑动滑块验证（开启后会自动破解，但不推荐）。
 
 
-[**项目技术路线说明文档**](https://zy66.online/index.php/archives/174)
+## [**项目技术路线说明文档**](https://zy66.online/index.php/archives/174)
 
 
 仅用于学习交流，禁止传播！！！
